@@ -1,0 +1,7 @@
+{
+  "standard.enable": true,
+  "standard.run": "onType",
+  "standard.autoFixOnSave": true,
+  "files.autoSave": "off",
+  "javascript.validate.enable": false 
+}
